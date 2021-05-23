@@ -202,6 +202,15 @@ export default function HeroSection() {
                     TW
                   </a>
                 </li>
+                <li>
+                  <a
+                    href="http://facebook.com/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    GH
+                  </a>
+                </li>
               </ul>
             </div>
           </div>
