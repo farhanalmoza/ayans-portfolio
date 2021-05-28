@@ -9,7 +9,7 @@ import ScrollDownArrow from '../assets/images/scroll-down-arrow.svg';
 const HeroStyle = styled.div`
   .hero {
     height: 95vh;
-    min-height: 619px;
+    min-height: 700px;
     width: 100%;
     text-align: center;
     display: flex;

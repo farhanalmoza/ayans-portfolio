@@ -8,7 +8,7 @@ const ButtonStyle = styled.div`
     font-size: 2rem;
     background-color: ${(props) =>
       props.outline ? 'transparent' : 'var(--gray-1)'};
-    padding: 0.5rem 1.8em;
+    padding: 1rem 2.8rem;
     border-radius: 8px;
     display: inline-block;
     border: 2px solid var(--gray-1);
