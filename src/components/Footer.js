@@ -100,7 +100,7 @@ export default function Footer() {
                 path: 'tel:+6281395161765',
               },
               {
-                title: 'farkhanjayadi@gmail.com',
+                title: 'farkhan@gmail.com',
                 path: 'mailto:farkhanjayadi@gmail.com',
               },
               {
